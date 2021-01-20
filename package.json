@@ -9,7 +9,7 @@
     "faunadb": "^2.5.2",
     "generate-password": "^1.4.1",
     "http-proxy-middleware": "^0.19.0",
-    "immer": "^1.7.4",
+    "immer": "^8.0.1",
     "netlify-identity-widget": "^1.4.14",
     "react": "^16.8.1",
     "react-cache": "^2.0.0-alpha.1",
